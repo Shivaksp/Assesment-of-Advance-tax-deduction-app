@@ -1,0 +1,406 @@
+<resources>
+    <string name="app_name">TS Tax</string>
+    <string name="it_fy_2021_22">IT-FY 2022-23</string>
+    <string name="personal_info">Personal Info:</string>
+    <string name="background11">background11.jpg</string>
+    <string name="logo2">logo2</string>
+    <string name="Personal_info">Personal Info :</string>
+    <string name="name_of_the_employee">Name of the Employee :</string>
+    <string name="designation">Designation :</string>
+    <string name="place">Place of working : </string>
+    <string name="mandal">Mandal : </string>
+    <string name="District">District : </string>
+    <string name="Pan">Pan card No : </string>
+    <string name="Mobile">Mobile Number : </string>
+    <string name="enter_name">Enter Name</string>
+    <string name="s_a_phy_sci">S A(Phy - sci)</string>
+    <string name="zpss_place">ZPSS _Place_</string>
+    <string name="enter_mandal">Enter Mandal</string>
+    <string name="enter_district">Enter District</string>
+    <string name="enter_mobile_no">Enter Mobile No</string>
+    <string name="enter_pan_card_no">Enter Pan Card No</string>
+    <string name="dddo_info">DDO Info :</string>
+    <string name="ddo_name">Name of the DDO :</string>
+    <string name="ddo_design">DDO Designation :</string>
+    <string name="ddo_office">DDO Office :</string>
+    <string name="ddo_dis">Mandal and District :</string>
+    <string name="ddo_tan">DDO Tan :</string>
+    <string name="ddo_et_name">Enter DDO Name :</string>
+    <string name="ddo_et_design">Enter Designation (ex. HeadMaster) :</string>
+    <string name="ddo_et_office">Enter Office (ex. ZPSS Jangaon) :</string>
+    <string name="ddo_et_dis">Enter Mandal,District</string>
+    <string name="ddo_et_tan">Enter DDO Tan</string>
+    <string name="text_Basic_pay">Enter Basic Pay For the Month of March, 2022 :</string>
+    <string name="data_salary">Salary Particulars :</string>
+    <string name="text_fpi">FPI if any :</string>
+    <string name="enter_fpi">Enter FPI</string>
+    <string name="enter_sp_pay">Enter Special Pay</string>
+    <string name="text_special_pay">Special Pay if any :</string>
+    <string name="text_hm">HM Higher Class Allowance :</string>
+    <string name="enter_hm">Enter HM</string>
+    <string name="text_tsin">Telangana Increment :</string>
+    <string name="enter_tsin">Enter Telangana Increment</string>
+    <string name="ddo_info">DDO info :</string>
+    <string name="text_phc">PHC Allowance claimed \nif Yes (choose Yes - Percentage) :</string>
+    <string name="text_fta">(FTA) Conveyance allowance exemption other than PHC allowance :</string>
+    <string name="enter_fta">Enter FTA</string>
+    <string name="text_in_month">Increment Month :</string>
+    <string name="text_aas">AAS (6/12/18/24) Availed if any :</string>
+    <string name="text_promotion">Promotion taken during the FY 2022-2023 :</string>
+    <string name="text_HRA">HRA as per RPS,20 :</string>
+    <string name="text_hra_change">If any change in HRA :</string>
+    <string name="text_hra_dt_change">Change in HRA Date :</string>
+    <string name="enter_hra_change">16</string>
+    <string name="text_hra_per_change">Change in % of HRA :</string>
+    <string name="text_els">Els Surrender :</string>
+    <string name="text_els_dt">Els Surrender date :</string>
+    <string name="text_tution">Children Tution Fee Reimbursement drawn during the FY 2022-23 :</string>
+    <string name="enter_tution">Enter the tution fee Reimbursement</string>
+    <string name="text_cps">Are you a CPS Employee :</string>
+    <string name="text_da_arrears">Have you claimed DA arrears :</string>
+    <string name="arrears">If any arrears received during FY 2022-23 :</string>
+    <string name="text_pay">Pay</string>
+    <string name="text_da">DA</string>
+    <string name="text_hra">HRA</string>
+    <string name="text_pay_cps">CPS</string>
+    <string name="text_cca">CCA</string>
+    <string name="text_arrears1">If 2 Months Apr,22 and May,22 RPS,21 Arrears encashed :</string>
+    <string name="enter_pay">Enter</string>
+    <string name="text_arrears2">Arrears any of FY 20XX-20YY :</string>
+    <string name="text_fy1">FY 2021-2022 :</string>
+    <string name="text_fy2">FY 2020-2021 :</string>
+    <string name="text_fy3">FY 2019-2020 :</string>
+    <string name="ded">Deductions :</string>
+    <string name="text_pf">PF deduction :</string>
+    <string name="text_pf_dt">Enter month if any change in PF :</string>
+    <string name="text_pf_no">Enter amount if any change in PF :</string>
+    <string name="enter_pf">Enter PF deduction</string>
+    <string name="enter_pf_no">Enter the amount if any change</string>
+    <string name="text_tsgli">TSGLI deduction :</string>
+    <string name="text_tsgli_dt">Enter month if any change in TSGLI :</string>
+    <string name="text_tsgli_no">Enter amount if any change in TSGLI :</string>
+    <string name="enter_tsgli">Enter TSGLI deduction</string>
+    <string name="enter_tsgli_no">Enter the amount if any change</string>
+    <string name="text_gis">GIS deduction :</string>
+    <string name="text_gis_dt">Enter month if any change in GIS :</string>
+    <string name="text_gis_no">Enter amount if any change in GIS :</string>
+    <string name="enter_gis">Enter GIS deduction</string>
+    <string name="enter_gis_no">Enter the amount if any change</string>
+    <string name="text_tut_fee">Tuition FEE :</string>
+    <string name="enter_tut_fee">Enter the FEE</string>
+    <string name="text_5years">5 Years Fixed Deposits :</string>
+    <string name="enter_5years">Enter amount of deposits</string>
+    <string name="text_national">National Savings Certificate :</string>
+    <string name="enter_national">Enter the savings</string>
+    <string name="text_pli">PLI Annual Insurance Plan :</string>
+    <string name="enter_pli">Enter the insurance amount</string>
+    <string name="text_lic">LIC Annual Premiums Paid by Hand :</string>
+    <string name="enter_lic">Enter the amount</string>
+    <string name="text_investment">Investment in Sukanya Samridhi :</string>
+    <string name="enter_investment">Enter the amount</string>
+    <string name="text_public">Public Provident Fund :</string>
+    <string name="enter_public">Enter the amount</string>
+    <string name="text_others">Others :</string>
+    <string name="enter_others">Enter any (ex:SBI life insurance)</string>
+    <string name="enter_others_no">Enter amount</string>
+    <string name="savings">Savings other than salary deduction U/s 80C :</string>
+    <string name="text_living">Living in :</string>
+    <string name="text_rent">Rent (Enter 0 if living is own house) \n(To get HRA excemption your rent will be RS.16700 /-)</string>
+    <string name="enter_rent">Enter rent here</string>
+    <string name="text_medical_self">Medical Insurance Premium paid for self, spouse, children U/s80D :</string>
+    <string name="enter_medical_self">Enter Insurance amount</string>
+    <string name="text_medical_senior">Medical Insurance Senior for Citizen Parents Medical Insurance U/s80D :</string>
+    <string name="enter_medical_senior">Enter Insurance Amount</string>
+    <string name="text_check">Payment made for Preventive health check up U/s80D (upto Rs. 5,000/-) :</string>
+    <string name="enter_check">Enter the amount</string>
+    <string name="text_loan">Interest Paid on Education Loan U/s 80E :</string>
+    <string name="enter_loan">Enter the amount</string>
+    <string name="text_disable">Is any Disable Dependent? U/s80DD :</string>
+    <string name="other_things">Other details :</string>
+    <string name="advance">Advance Tax deducted in the Salary or paid by hand :</string>
+    <string name="text_mar">March</string>
+    <string name="enter_mar">Enter here</string>
+    <string name="text_apr">April</string>
+    <string name="enter_apr">Enter here</string>
+    <string name="text_may">May</string>
+    <string name="enter_may">Enter here</string>
+    <string name="text_june">June</string>
+    <string name="enter_june">Enter here</string>
+    <string name="text_july">July</string>
+    <string name="enter_july">Enter here</string>
+    <string name="text_aug">August</string>
+    <string name="enter_aug">Enter here</string>
+    <string name="text_sep">September</string>
+    <string name="text_oct">October</string>
+    <string name="text_nov">November</string>
+    <string name="text_dec">December</string>
+    <string name="text_jan">January</string>
+    <string name="text_feb">February</string>
+    <string name="enter_sep">Enter here</string>
+    <string name = "textname1">Dont leave any input empty!!</string>
+    <string name="textname2">Go to File Manager and to Downloads folder and find Annexure-I pdf \nFiles->Downloads->Annexure-I</string>
+
+
+    <string-array name="living">
+        <item>Rented House</item>
+        <item>Own House</item>
+    </string-array>
+
+    <string-array name="disable">
+        <item>No Disable dependent</item>
+        <item>Yes, 80% below</item>
+        <item>Yes, 80% above Disable</item>
+    </string-array>
+
+
+
+
+
+    <string-array name="gis_dt">
+        <item>No change</item>
+        <item>April,22</item>
+        <item>May,22</item>
+        <item>June,22</item>
+        <item>July,22</item>
+        <item>August,22</item>
+        <item>September,22</item>
+        <item>October,22</item>
+        <item>November,22</item>
+        <item>December,22</item>
+        <item>January,23</item>
+        <item>February,23</item>
+    </string-array>
+    <string-array name="tsgli_dt">
+        <item>No change</item>
+        <item>April,22</item>
+        <item>May,22</item>
+        <item>June,22</item>
+        <item>July,22</item>
+        <item>August,22</item>
+        <item>September,22</item>
+        <item>October,22</item>
+        <item>November,22</item>
+        <item>December,22</item>
+        <item>January,23</item>
+        <item>February,23</item>
+    </string-array>
+    <string-array name="pf_dt">
+        <item>No change</item>
+        <item>April,22</item>
+        <item>May,22</item>
+        <item>June,22</item>
+        <item>July,22</item>
+        <item>August,22</item>
+        <item>September,22</item>
+        <item>October,22</item>
+        <item>November,22</item>
+        <item>December,22</item>
+        <item>January,23</item>
+        <item>February,23</item>
+    </string-array>
+
+
+    <string-array name="da_arrears">
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+
+    <string-array name="cps">
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+
+
+
+    <string-array name="els_dt">
+        <item>March,22</item>
+        <item>April,22</item>
+        <item>May,22</item>
+        <item>June,22</item>
+        <item>July,22</item>
+        <item>August,22</item>
+        <item>September,22</item>
+        <item>October,22</item>
+        <item>November,22</item>
+        <item>December,22</item>
+        <item>January,23</item>
+        <item>February,23</item>
+    </string-array>
+
+
+
+    <string-array name="els">
+        <item>No</item>
+        <item>15 days</item>
+        <item>30 days</item>
+
+    </string-array>
+
+
+    <string-array name="hra_per_change">
+        <item>11%</item>
+        <item>13%</item>
+        <item>17%</item>
+        <item>24%</item>
+        <item>0%</item>
+    </string-array>
+
+
+    <string-array name="hra_dt_change">
+        <item>No Change</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+        <item>January</item>
+        <item>February</item>
+    </string-array>
+    <string-array name="hra">
+        <item>11%</item>
+        <item>13%</item>
+        <item>17%</item>
+        <item>24%</item>
+        <item>0%</item>
+    </string-array>
+
+
+
+
+    <string-array name="promotion">
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+
+
+
+
+    <string-array name="aas">
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+
+
+
+
+
+    <string-array name="in_month">
+
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+        <item>January</item>
+        <item>February</item>
+        <item>No increment</item>
+    </string-array>
+
+
+
+
+
+
+    <string-array name="phc">
+        <item>No</item>
+        <item>Yes - 80% and Above</item>
+    </string-array>
+
+
+    <string-array name="Basic_pay">
+        <item>19000</item>
+        <item>19640</item>
+        <item>20280</item>
+        <item>20920</item>
+        <item>21580</item>
+        <item>22240</item>
+        <item>22900</item>
+        <item>23590</item>
+        <item>24280</item>
+        <item>24970</item>
+        <item>25690</item>
+        <item>26410</item>
+        <item>27130</item>
+        <item>27880</item>
+        <item>28630</item>
+        <item>29380</item>
+        <item>30210</item>
+        <item>31040</item>
+        <item>31870</item>
+        <item>32810</item>
+        <item>33750</item>
+        <item>34690</item>
+        <item>35720</item>
+        <item>36750</item>
+        <item>37780</item>
+        <item>38890</item>
+        <item>40000</item>
+        <item>41110</item>
+        <item>42300</item>
+        <item>43490</item>
+        <item>44680</item>
+        <item>45960</item>
+        <item>47240</item>
+        <item>48520</item>
+        <item>49920</item>
+        <item>51320</item>
+        <item>52720</item>
+        <item>54220</item>
+        <item>55720</item>
+        <item>57220</item>
+        <item>58850</item>
+        <item>60480</item>
+        <item>62110</item>
+        <item>63840</item>
+        <item>65570</item>
+        <item>67300</item>
+        <item>69150</item>
+        <item>71000</item>
+        <item>72850</item>
+        <item>74840</item>
+        <item>76830</item>
+        <item>78820</item>
+        <item>80960</item>
+        <item>83100</item>
+        <item>85240</item>
+        <item>87510</item>
+        <item>89780</item>
+        <item>92050</item>
+        <item>94470</item>
+        <item>96890</item>
+        <item>99310</item>
+        <item>101870</item>
+        <item>104430</item>
+        <item>106990</item>
+        <item>109750</item>
+        <item>112510</item>
+        <item>115270</item>
+        <item>118230</item>
+        <item>121190</item>
+        <item>124150</item>
+        <item>127310</item>
+        <item>130470</item>
+        <item>133630</item>
+        <item>137050</item>
+        <item>140470</item>
+        <item>143890</item>
+        <item>147310</item>
+        <item>151000</item>
+        <item>154690</item>
+        <item>158380</item>
+        <item>162070</item>
+        <item>165760</item>
+        <item>169450</item>
+        <item>173140</item>
+        <item>176830</item>
+        <item>180520</item>
+    </string-array>
+</resources>
